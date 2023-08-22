@@ -58,3 +58,7 @@ Se define una arquitectura lógica para el Datalake con tres áreas claramente 
 
 
 
+
+# Diseño final utilizando la Google Cloud Pplatform
+
+![Diseño ARquitectonico](https://github.com/Allan36922/Modulo3_DataEng.git/blob/main/Imgs/Diseño%Arquitectonico.png)
