@@ -57,11 +57,15 @@ Se define una arquitectura lógica para el Datalake con tres áreas claramente 
 7. Estimar el tiempo de diseño e implementación del data lake.
 
 
+# Documentación:
 
+* Modulo3_DataEng/Docs/
 
-# Diseño final utilizando la Google Cloud Pplatform
+# Diseño final utilizando la Google Cloud Platform:
 
 ![Diseño Arquitectonico](https://github.com/Allan36922/Modulo3_DataEng/blob/main/Imgs/DiseñoArquitectonico.png)
+
+
 
 
 
